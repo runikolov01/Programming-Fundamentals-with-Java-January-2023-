@@ -2,7 +2,7 @@ package FinalExamPreparation;
 
 import java.util.Scanner;
 
-public class EE01WorldTour {
+public class EEE01WorldTour {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
